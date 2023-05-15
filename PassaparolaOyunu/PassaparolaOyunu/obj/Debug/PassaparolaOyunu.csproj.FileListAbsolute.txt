@@ -1,0 +1,11 @@
+C:\Users\DellPc\Desktop\Akay Yazılım\PassaparolaOyunu\PassaparolaOyunu\bin\Debug\PassaparolaOyunu.exe.config
+C:\Users\DellPc\Desktop\Akay Yazılım\PassaparolaOyunu\PassaparolaOyunu\bin\Debug\PassaparolaOyunu.exe
+C:\Users\DellPc\Desktop\Akay Yazılım\PassaparolaOyunu\PassaparolaOyunu\bin\Debug\PassaparolaOyunu.pdb
+C:\Users\DellPc\Desktop\Akay Yazılım\PassaparolaOyunu\PassaparolaOyunu\obj\Debug\PassaparolaOyunu.csproj.AssemblyReference.cache
+C:\Users\DellPc\Desktop\Akay Yazılım\PassaparolaOyunu\PassaparolaOyunu\obj\Debug\PassaparolaOyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\DellPc\Desktop\Akay Yazılım\PassaparolaOyunu\PassaparolaOyunu\obj\Debug\PassaparolaOyunu.Form1.resources
+C:\Users\DellPc\Desktop\Akay Yazılım\PassaparolaOyunu\PassaparolaOyunu\obj\Debug\PassaparolaOyunu.Properties.Resources.resources
+C:\Users\DellPc\Desktop\Akay Yazılım\PassaparolaOyunu\PassaparolaOyunu\obj\Debug\PassaparolaOyunu.csproj.GenerateResource.cache
+C:\Users\DellPc\Desktop\Akay Yazılım\PassaparolaOyunu\PassaparolaOyunu\obj\Debug\PassaparolaOyunu.csproj.CoreCompileInputs.cache
+C:\Users\DellPc\Desktop\Akay Yazılım\PassaparolaOyunu\PassaparolaOyunu\obj\Debug\PassaparolaOyunu.exe
+C:\Users\DellPc\Desktop\Akay Yazılım\PassaparolaOyunu\PassaparolaOyunu\obj\Debug\PassaparolaOyunu.pdb
